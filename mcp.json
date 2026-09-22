@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "mdataaccess": {
+      "url": "https://api.mdataaccess.com/mcp/"
+    }
+  }
+}
