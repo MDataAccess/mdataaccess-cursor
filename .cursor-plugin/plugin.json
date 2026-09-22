@@ -1,0 +1,23 @@
+{
+  "name": "mdataaccess",
+  "version": "1.0.0",
+  "description": "Business, people, company, lead, and web intelligence for AI agents through MDataAccess MCP.",
+  "author": {
+    "name": "MDataAccess",
+    "email": "info@mdataaccess.com"
+  },
+  "homepage": "https://mdataaccess.com",
+  "repository": "https://github.com/MDataAccess/mdataaccess-cursor",
+  "keywords": [
+    "mcp",
+    "data",
+    "business",
+    "people",
+    "companies",
+    "leads",
+    "enrichment",
+    "research",
+    "sales"
+  ],
+  "mcpServers": "./mcp.json"
+}
